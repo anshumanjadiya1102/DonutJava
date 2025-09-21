@@ -41,7 +41,7 @@ Here’s the donut in action:
 
  ```sh
    git clone https://github.com/anshumanjadiya1102/DonutJava.git
-   cd java-spinning-donut
+   cd DonutJava
  ```
 2. Compile
 ```
