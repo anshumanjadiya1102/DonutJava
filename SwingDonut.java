@@ -124,3 +124,5 @@ public class SwingDonut extends JPanel {
         });
     }
 }
+// This code was difficult to make but I managed to do this.
+// This project is also unregistered trademark of Anshuman Jadiya 
